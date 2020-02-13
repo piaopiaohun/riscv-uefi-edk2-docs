@@ -33,7 +33,7 @@ Please refer to document from below link,
 https://github.com/riscv/riscv-uefi-edk2-docs/edk2/riscv-edk2-port.adoc
 
 ## Contributors
-**Chang, Abner** < abner.chang@hpe.com >
-**Chen, Gilbert** < gilbert.chen@hpe.com >
+**Chang, Abner** < abner.chang@hpe.com ><br>
+**Chen, Gilbert** < gilbert.chen@hpe.com ><br>
 **Schaefer, Daniel Helmut** < daniel.schaefer@hpe.com >
 
