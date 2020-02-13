@@ -67,9 +67,12 @@ before you build RISC-V edk2 port.
 
 ## Owners
 **Abner Chang** < abner.chang@hpe.com >
+
 **Gilbert Chen** < gilbert.chen@hpe.com >
 
 ## Contributors
 **Abner Chang** < abner.chang@hpe.com >
+
 **Gilbert Chen** < gilbert.chen@hpe.com >
+
 **Schaefer, Daniel Helmut** < daniel.schaefer@hpe.com >
