@@ -30,7 +30,7 @@ Below table lists the current supported RISC-V platforms with UEFI edk2 RISC-V p
 
 ## RISC-V EDK2 Port Introduction and Build Guidance
 Please refer to document from below link,
-https://github.com/riscv/riscv-uefi-edk2-docs/edk2/riscv-edk2-port.adoc
+https://github.com/riscv/riscv-uefi-edk2-docs/blob/master/edk2/riscv-edk2-port.adoc
 
 ## Contributors
 **Chang, Abner** < abner.chang@hpe.com ><br>
