@@ -35,5 +35,7 @@ https://github.com/riscv/riscv-uefi-edk2-docs/blob/master/edk2/riscv-edk2-port.a
 ## Contributors
 **Chang, Abner** < abner.chang@hpe.com ><br>
 **Chen, Gilbert** < gilbert.chen@hpe.com ><br>
+**Lindholm, Leif** < leif@nuviainc.com ><br>
 **Schaefer, Daniel Helmut** < daniel.schaefer@hpe.com >
+
 
