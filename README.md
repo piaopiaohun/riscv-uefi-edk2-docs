@@ -34,8 +34,8 @@ Below table lists the current status of booting RISC-V platform,
 | Platform Name| EFI Shell|Boot loader|OS|
 |---|---|---|---|
 |Freedom U500 VC707 FPGA|**Yes**|N/A|N/A|
-|HiFive Unleashed (Freedom U540 SoC)|Yes|N/A|N/A|
-|HiFive Unleashed (Freedom U540 SoC)|N/A|N/A|N/A|
+|HiFive Unleashed (QEMU)|**Yes**|N/A|N/A|
+|HiFive Unleashed |N/A|N/A|N/A|
 |AX25 + AE350 FPGA|N/A|N/A|N/A|
 
 ## RISC-V EDK2 Port Introduction and Build Guidance
