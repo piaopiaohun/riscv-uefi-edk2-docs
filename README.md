@@ -8,7 +8,7 @@ Below is the repositories of RISC-V EDK2 port on TianoCore GitHub.
 
 | Repo.| Branch|URI|Verified Commit ID|
 |---|---|---|---|
-|**EDK2 Staging**|RISC-V-V2|https://github.com/tianocore/edk2-staging/tree/RISC-V-V2|3d6deee _(The latest_)|
+|**EDK2 Staging**|RISC-V-V2|https://github.com/tianocore/edk2-staging/tree/RISC-V-V2|d0e9ded _(The latest_)|
 |**EDK2 Platforms**|devel-riscvplatforms|https://github.com/tianocore/edk2-platforms/tree/devel-riscvplatforms|6e9e115 _(The latest)_|
 
 ## OpenSBI Integration
