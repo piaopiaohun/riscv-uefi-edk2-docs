@@ -23,10 +23,20 @@ Below table lists the current supported RISC-V platforms with UEFI edk2 RISC-V p
 
 | Vendor| Platform Name| Execution Environment|Status|
 |---|---|---|---|
-|**SiFive**|Freedom U500 VC707 FPGA|On board|Done|
-|**SiFive**|HiFive Unleashed (Freedom U540 SoC)|QEMU|Done|
-|**SiFive**|HiFive Unleashed (Freedom U540 SoC)|On board|**WIP**|
-|**Andes**|AX25 + AE350 FPGA|On board|**WIP**|
+|**SiFive**|Freedom U500 VC707 FPGA|On board|**Done**|
+|**SiFive**|HiFive Unleashed (Freedom U540 SoC)|QEMU|**Done**|
+|**SiFive**|HiFive Unleashed (Freedom U540 SoC)|On board|WIP|
+|**Andes**|AX25 + AE350 FPGA|On board|WIP|
+
+## Boot Status
+Below table lists the current status of booting RISC-V platform,
+
+| Platform Name| EFI Shell|Boot loader|OS|
+|---|---|---|---|
+|Freedom U500 VC707 FPGA|**Yes**|N/A|N/A|
+|HiFive Unleashed (Freedom U540 SoC)|Yes|N/A|N/A|
+|HiFive Unleashed (Freedom U540 SoC)|N/A|N/A|N/A|
+|AX25 + AE350 FPGA|N/A|N/A|N/A|
 
 ## RISC-V EDK2 Port Introduction and Build Guidance
 Please refer to document from below link,
